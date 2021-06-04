@@ -12,7 +12,8 @@ A small shell implementation written in C that:
 
 # Instructions
 To compile the smallsh.c file into an executable, 
-run the following command in the terminal: "gcc --std=gnu99 -o smallsh smallsh.c"
+run the following command in the terminal: 
+"gcc --std=gnu99 -o smallsh smallsh.c"
 
 To run the executable file, 
 run the following command in the terminal: "./smallsh"
